@@ -1,3 +1,5 @@
+BITS 64
+
 global _start					;appelle de notre étiquette principale nommée _start
 
 section .rodata 				;section dédier à la déclaration de nos variable
